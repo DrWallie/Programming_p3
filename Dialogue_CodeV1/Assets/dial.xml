@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  
+	<o buttoncount="5"/>
+	<d text ="woeptiedoe"/>
+	    <o_1 text ="...." answer="...." buttoncount="2"/>
+	       <o_1_1 text ="...." answer="...." buttoncount="0"/>
+	       <o_1_2 text ="...." answer="...." buttoncount="0"/>
+	  
+	    <o_2 text ="...." answer="...." buttoncount="3"/>
+	       <o_2_1 text ="...." answer="...." buttoncount="1"/>
+	          <o_2_1_1 text ="...." answer="...." buttoncount="0"/>
+	       <o_2_2 text ="...." answer="...." buttoncount="0"/>
+	       <o_2_3 text ="...." answer="...." buttoncount="0"/>
+	  
+	    <o_3 text ="...." answer="...." buttoncount="3"/>
+	       <o_3_1 text ="...." answer="...." buttoncount="0"/>
+	       <o_3_2 text ="...." answer="...." buttoncount="0"/>
+	       <o_3_3 text ="...." answer="...." buttoncount="0"/>
+	  
+	    <o_4 text ="...." answer="...." buttoncount="4"/>
+	       <o_4_1 text ="...." answer="...." buttoncount="0"/>
+	       <o_4_2 text ="...." answer="...." buttoncount="0"/>
+	       <o_4_3 text ="...." answer="...." buttoncount="0"/>
+	       <o_4_4 text ="...." answer="...." buttoncount="0"/>
+	  
+	    <o_5 text ="...." answer="...." buttoncount="2"/>
+	       <o_5_1 text ="...." answer="...." buttoncount="0"/>
+	       <o_5_2 text ="...." answer="...." buttoncount="0"/>
+
+</Dialogue>
