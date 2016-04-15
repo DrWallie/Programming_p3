@@ -2,10 +2,9 @@
 <Dialogue>
   
 	<o buttoncount="5"/>
-	<d text ="woeptiedoe"/>
-	    <o_1 text ="daaaaa" answer="daaaa" buttoncount="2"/>
-	       <o_1_1 text =".o.." answer="doeee" buttoncount="0"/>
-	       <o_1_2 text =".f.." answer="...." buttoncount="0"/>
+	    <o_1 text ="Hoe gaat t ermee?" answer="Goed hoor en met jou?" buttoncount="2"/>
+	       <o_1_1 text ="met mij ook goed" answer="mooizo, nu opgerot" buttoncount="0"/>
+	       <o_1_2 text ="NIET! laat me alleen" answer="oh,ke?" buttoncount="0"/>
 	  
 	    <o_2 text ="...." answer="...." buttoncount="3"/>
 	       <o_2_1 text ="...." answer="...." buttoncount="1"/>

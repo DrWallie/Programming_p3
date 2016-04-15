@@ -2,7 +2,6 @@
 <Dialogue>
   
 	<o buttoncount="5"/>
-	<d text ="woeptiedoe"/>
 	    <o_1 text ="daaaaa" answer="daaaa" buttoncount="2"/>
 	       <o_1_1 text =".o.." answer="doeee" buttoncount="0"/>
 	       <o_1_2 text =".f.." answer="...." buttoncount="0"/>
